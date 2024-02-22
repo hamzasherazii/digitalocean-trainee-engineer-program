@@ -1,0 +1,222 @@
+Day 1
+
+vps, hetzner, droplet hyperscalers, droplets were introduced first by do in around 2013 ip, internet, intro to it infrastructure autoscaling, vertical scaling, horizontal scaling hyperscaling is like manual version automated for vps ip, user, ssh keys, black screen, linux, server management, web services, databases setup, connecting with db, cms connect with nginx ports ip ports, connecting to servers, linux team, provider apache nginx windows IIS debian, ubuntu vm -> vps -> managed cloud hosting docker concepts important terms: IaaS PaaS Software as a Service KINSTA we talked about systems administration role opsgenie vectorops single tier vs autonomous on cloudways monolthic code vs micro services
+------
+
+day2
+
+learnt about slack and how to use it. history of IRC, DALNET, FREENODE
+
+Learnt about channels, workspaces, threads, learnt about @ mentions and basic attiquates
+
+reveiw:
+
+cloudways
+
+managed cloud hosting
+
+VMs/VPS
+
+PaaS/IaaS/SaaS
+
+learnt about how wordpress and other cms like joomla and magento working and plugins, themes
+
+stock/vanilla wordpress
+
+SINGLE TIER, and how all services are on same tier and learnt about IP address
+
+learn about multitier service, learnt about load balancer. vertical scaling and horizonal scaling, concept of self healing, docker swarm, kubernetes, supervisor on ubuntu
+
+learnt about monitoring,
+
+POP's, CDN(cloudflare)
+
+learnt about DOS attack, CnC agent, botnets, need protection, so preffered cloudflare, excellent read cloudflare blogs. sync flooding, reflection attacks, cloud flare attacks.
+
+Some of the concepts we explored today are:
+
+PaaS/IaaS/SaaS
+Content Delivery Networks (CDN)
+DoS/DDoS (Denial of Service Attacks)
+Horizontal server scaling vs Vertical server scaling
+Single-tier and multi-tier architecture.
+Pricing tiers and freemium models
+
+------
+
+Day 3
+
+expored cloudways pricing plans and feaures w.r.t to SSL and shared hosting, KINSTA, WP ENGINE
+
+discussed about different hosting like shared, vps and host os, guest os. cleared different concepts about this.
+
+TOS, SLA's
+
+DMCA PIRACY COMPLAINS
+
+IPV4, IPV6
+
+learnt about server cedentials monitoringm manage services, settings and packages and other settings of web server
+
+q: sepervisord
+
+vendor lock in and explored DO, and explored the basic services
+
+BYOD/S
+
+learnt about different high level overview on how to it infrastructure works
+
+and about a high level overview of mysql and nosql
+
+linux manpage
+
+linus torvals, history of linux and unix
+
+ruby, ruby on rails, MVC
+
+python
+
+next:
+
+linux, unix
+
+------
+
+Day 4
+
+what we will cover today
+
+unix and linux history
+
+multiuser, time-sharing
+
+job - set of instructions that computer run
+
+invented by bell labs, same founders as ken thompson dennis richie from bell abs
+
+c++ bjarn stoutrup
+
+multics, c, assembly
+
+multiuser, means at a time, more than one user can use
+
+time-sharing is a concept that
+
+berkeley university
+
+HP-UX
+
+IBM UNIX
+
+DARWIN old version od macOS
+
+OPENBSD, FREEBSD, NETBSD
+
+ANDREW TANNEBRAUN, professor of finland helinsiki, MINIX. stripped down version. LINUS TORVALDS,
+
+Concept: Kernel, applications
+
+kernels, drivers, datasheet, ic, format of communicating with ic is given in datasheet, modules, kernels, device drivers
+
+kernel allowsa access to the hardware, gives an interface to applications to access the cpu etc etc
+
+each kernel has new features
+
+file system, nfs, fat32, ext
+
+concept: compiling kernel, sirf driver compile krein and make binary, make size compacts
+
+kernel.org
+
+linmodems website, modem software emulated
+
+rootkit, systemcalls of kernels
+
+richard stallman, RMS, free software foundation, source code modify, xerox printer driver. 4 basic freedoms, FSF organizations, GNU/LINUX, Gcc compilers, GDB debugger, GNU Emas,
+
+linux was kernel and gnu was applications
+
+GPL v2/v3
+
+openlicenses
+
+apache, MIT, BSD
+
+creative commons
+
+free software, open source
+
+borland compiler
+
+UNIX derived IBM, HP, SOLARIS, SUNOS, other is macOS
+
+WSL
+
+Powershell
+
+systemcalls, are functions in C
+
+interface is UI Interface, web ka interface, cli, c code interface, function c,
+
+for example, c ki funcation call read () uses interface and brings the data
+
+how rootkit can compromise the syscalls, rootkit hunters are used.
+
+linux main point was cli, windows was UI based.
+
+CLI interface is command interpreter
+
+BASH, also called as BASH Shell
+
+ASH
+
+SH
+
+ZASH
+
+CSH
+
+echo $SHELL
+/bin/bash
+explored the benefits of different shells such as BASH
+
+explored about what scripting it is and how to execute it.
+
+File System, ext264, ext4
+
+concept about libraries
+
+learnt about poising in commands such as ls
+
+explored different file systems such as NTFS, ext, extFAT
+
+learnt about linux distro's, linux kernels are same in every distro, more info kernel.org
+
+GNU applications , apps set, GUI set all 3 combined are called make a distro
+
+GNOME KDE
+
+XFCE
+
+Debian, redhat, SLS/Slackware
+
+GENTOO
+
+GNOME UI, KDE, BLACKBOX UI
+
+ArchLinux
+
+FreeBSD(its a unix)
+
+FREENODE
+
+Dualboot
+
+virualbox
+
+WSL
+
+Docker ubuntu
+
+
+Thanks to Sumama Zaeem

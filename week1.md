@@ -1,9 +1,9 @@
-#Day 1
+# Day 1
 
 vps, hetzner, droplet hyperscalers, droplets were introduced first by do in around 2013 ip, internet, intro to it infrastructure autoscaling, vertical scaling, horizontal scaling hyperscaling is like manual version automated for vps ip, user, ssh keys, black screen, linux, server management, web services, databases setup, connecting with db, cms connect with nginx ports ip ports, connecting to servers, linux team, provider apache nginx windows IIS debian, ubuntu vm -> vps -> managed cloud hosting docker concepts important terms: IaaS PaaS Software as a Service KINSTA we talked about systems administration role opsgenie vectorops single tier vs autonomous on cloudways monolthic code vs micro services
 ____________________________________________________________________________________________________________________________
 
-day2
+# day2
 
 learnt about slack and how to use it. history of IRC, DALNET, FREENODE
 
@@ -44,7 +44,7 @@ Pricing tiers and freemium models
 
 ____________________________________________________________________________________________________________________________
 
-Day 3
+# Day 3
 
 expored cloudways pricing plans and feaures w.r.t to SSL and shared hosting, KINSTA, WP ENGINE
 
@@ -83,7 +83,7 @@ linux, unix
 ____________________________________________________________________________________________________________________________
 
 
-Day 4
+# Day 4
 
 what we will cover today
 

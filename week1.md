@@ -3,7 +3,7 @@
 vps, hetzner, droplet hyperscalers, droplets were introduced first by do in around 2013 ip, internet, intro to it infrastructure autoscaling, vertical scaling, horizontal scaling hyperscaling is like manual version automated for vps ip, user, ssh keys, black screen, linux, server management, web services, databases setup, connecting with db, cms connect with nginx ports ip ports, connecting to servers, linux team, provider apache nginx windows IIS debian, ubuntu vm -> vps -> managed cloud hosting docker concepts important terms: IaaS PaaS Software as a Service KINSTA we talked about systems administration role opsgenie vectorops single tier vs autonomous on cloudways monolthic code vs micro services
 ____________________________________________________________________________________________________________________________
 
-# day2
+# Day 2
 
 learnt about slack and how to use it. history of IRC, DALNET, FREENODE
 

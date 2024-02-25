@@ -219,5 +219,93 @@ WSL
 
 Docker ubuntu
 
+____________________________________________________________________________________________________________________________
+
+Day 5
+
+started a cloud guru course that is assigned, linux fundamentals
+
+redhat describes linux as
+
+kernel
+system user space
+applications
+systems bootup. wither BIOS or UEFI
+
+These run a bootloader which runs the kernel image
+
+then kernel runs everything else
+
+system userspace is an adminisrative layer, incluses shell or command interpreter, include daemons
+
+softwares
+
+livepatch
+
+Linux Distributions
+
+red hat used yum or dnf command, whereas ubuntu use apt.
+
+all distribution has something in common. the kernel ties it alltogather.
+
+there is a lot of linux distributions
+
+redhat centos and fedora
+
+ubuntu debian
+
+opensuse SUSE
+
+what is opensource?
+
+the freesoftware movement by richard stallman
+
+GNU Project
+
+other operating system than linux
+
+chapter 3:
+
+types of linux
+
+Server linux
+
+Desktop Linux
+
+low cost of using linux, efficient, no need of upgrade,
+
+mobile linux
+
+portable device, touch screen, modified linux kernel, apache license, comes inder AOSP
+
+3 billion users,
+
+other are ubuntu touch
+
+postmarketos
+
+sailfish OS
+
+mobian, debian linux for mobiles
+
+hypervisor OR virtual
+
+virutalization is efficient
+
+There are different types of virtulization
+
+type 1 like ec2 on hypervisor
+
+type 2 like virtualbox, software OS is running
+
+64-bit cpu is from intel or amd is called
+
+X64
+
+AMD64
+
+keyword LILI
+
+
 
 Thanks to Sumama Zaeem

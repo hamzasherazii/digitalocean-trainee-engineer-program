@@ -23,5 +23,19 @@ It either
 These run a bootloader that loads the Kernal image
 
 From here, the Kernel initializes and starts up everything else that is required to run (e.g., drivers and software)
+---
+
+## Administrative Layer (system user space)
+This is an administrative layer for the tasks like configuration and software installation
+- It includes shell or command interpreter
+- Also includes daemons (Daemons run in the background to manage things)
+  Daemons are not visible to the users cuz they don't allow interaction but they ARE vital for the proper functioning of Linux
+---
+
+## Software (Applications)
+
+
+
+
 
 

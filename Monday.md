@@ -23,6 +23,7 @@ It either
 These run a bootloader that loads the Kernal image
 
 From here, the Kernel initializes and starts up everything else that is required to run (e.g., drivers and software)
+
 ---
 
 ## Administrative Layer (system user space)

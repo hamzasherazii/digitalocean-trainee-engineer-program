@@ -10,7 +10,7 @@ They describe linux as composed of THREE major sections:
 3. Applications
 
 
-KERNEL:
+## KERNEL:
 Kernel is the base of the operating system (( almost the lowest layer ))
 Kernel manages the hardwar eand its interactions with everything else
 

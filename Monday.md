@@ -132,6 +132,24 @@ It isn't just for the servers in a data center, computer room, or the "cloud"
 There are distributions specifically designed for use on the desktop
 And there are some that are designed specifically for server use
 
+One of the main differences between the server and desktop use is the GUI
+Many things can be done with the CLI (Command Line Interface)
+
+Many tasks are easier when you use GUI
+
+
+Using linux can save a lot of money
+For example, you can run linux on old equipment in which Windows 11 wouldn't be able to run properly
+
+---
+
+# Mobile Linux
+
+It is a linux based operating system that is designed for portable devices
+
+Android is a modified version of the Linux Kernel with additional software
+
+Android is open source: comes from the Android Open Source Project (AOSP)
 
 
 

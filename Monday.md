@@ -32,6 +32,7 @@ This is an administrative layer for the tasks like configuration and software in
 - It includes shell or command interpreter
 - Also includes daemons (Daemons run in the background to manage things)
   Daemons are not visible to the users cuz they don't allow interaction but they ARE vital for the proper functioning of Linux
+  
 ---
 
 ## Software (Applications)
@@ -81,7 +82,54 @@ If you're not sure which one to go with, go for Ubuntu or CentOS
 
 Use "Current" distribution instead of Long Term Support
 
+---
 
+# Open Source
+Open Source means the source code is available for use, examine, modify and share
+
+
+Kernel is fully open source
+
+---
+
+# Other Popular Operating Systems
+- Windows: can be used for servers and personal use
+- MacOS: not used for servers and is supplied with Apple computers
+
+---
+
+chapter 3
+
+# Server Linux
+
+A server can be a physical computer or a virtual one in a cloud environment like Amazon EC2, or Google Cloud
+With a server, you don't need a graphical interface, you can but it's more secure to connect with a secure terminal, SSH or some other method
+
+
+Why server-specific linux then?
+A server specific installation uses fewer resources. 
+- No graphical interface is needed if there is no monitor
+- Less software installed, less software means less things running
+- Less software = less update
+
+
+Dedicated servers are designed for throughtput and reliability
+Computer designed for desktop use won't have server-specific items
+
+Linux is good for
+- Databases
+- Web Servers
+- Email Servers
+
+  Most of them run on Linux because o its reliability
+
+
+# Desktop Linux
+You can use Linux for all your daily tasks
+It isn't just for the servers in a data center, computer room, or the "cloud"
+
+There are distributions specifically designed for use on the desktop
+And there are some that are designed specifically for server use
 
 
 

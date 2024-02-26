@@ -56,6 +56,7 @@ Lekin ye sab 15-20 saal pehle hota tha, ab boht behtar hai Linux kyu k Kernel ki
 
 Ab linux boht reliable hai
 Linux servers kaafi der tk chaltay rehte without rebooting unless kernel update krna parray
+
 ---
 
 

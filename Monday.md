@@ -34,6 +34,25 @@ This is an administrative layer for the tasks like configuration and software in
 ---
 
 ## Software (Applications)
+jo normal applications hoti hain e.g., browser
+
+---
+
+# Distributions 
+Ek cheez ki different versions ko distributions keh skte hain
+Decide krna konsi distribution best hai quite difficult hota hai or totally apki needs pe depend krta hai
+
+---
+
+Shurru k dino mai Linux itna khaas nhi tha jitna aaj hai
+Uss mai boht se maslay thay jese
+- Use krne mai difficult tha
+- Install krne mai bhi difficult tha
+- Lack of "drivers" for hardware
+
+
+
+
 
 
 

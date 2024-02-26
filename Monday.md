@@ -2,6 +2,7 @@
 
 (( my personal progress))
 
+CHAPTER 2
 
 Redhat is a major supplier of linux operating systems
 They describe linux as composed of THREE major sections:
@@ -50,8 +51,35 @@ Uss mai boht se maslay thay jese
 - Install krne mai bhi difficult tha
 - Lack of "drivers" for hardware
 
+Lekin ye sab 15-20 saal pehle hota tha, ab boht behtar hai Linux kyu k Kernel ki support agyi hai for most hardware in use
+
+Ab linux boht reliable hai
+Linux servers kaafi der tk chaltay rehte without rebooting unless kernel update krna parray
+---
 
 
+### Different Versions of Modern Linux
+
+# Linux Distributions
+
+
+ Linux distribution is a version of a software that's packaged up with everything needed to make it run
+ Sab se pehli linux mai kuch khaas cheezein nhi included theen
+ Toh boht saaray distributors ny apni apni versions bna li linux ki lekin Kernel ek hee raha, as a common factor    among all of them
+
+ Package managers use hotay thay/hain to install new software, woh bhi change hotay gaye depending on distribution
+
+
+
+The course will mostly discuss Linux from:
+- Red Hat (which includes CentOS and Federa)
+- Ubuntu (which is based on Debian)
+- OpenSUSE (which comes from SUSE project)
+
+
+If you're not sure which one to go with, go for Ubuntu or CentOS
+
+Use "Current" distribution instead of Long Term Support
 
 
 

@@ -65,7 +65,19 @@ sudo apt upgrade
 
 
 
+---
 
+# Docker
+
+Open-source containerization platform
+Designed for running small containers or images of your software
+
+
+Container in the docker world is a package of code that includes everything needed to run a program
+
+# Vagrant
+
+It's a tool used for building and managing virtual machine environments in a single workflow
 
 
 

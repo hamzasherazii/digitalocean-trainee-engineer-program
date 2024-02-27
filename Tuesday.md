@@ -37,8 +37,31 @@ It can run any command or update any file
 Best practice is to not use the root user directly. For security purposes, you should never log in as that user.
 
 
+You can use sudo command to raise your permission as that of a root user
+Each time sudo command is used, it is logged in system logs for tracking and audit
+
+You can use sudo cmd to install a program
+For example, you want to install the program Vim for Red-hat-Style distributions
+
+sudo dnf install vim ((to install latest distributions))
+sudo yum install vim ((Red Har Enterprise 7 [and CentOS 7] and earlier distributions))
+
+To update
+
+sudo dnf update 
+sudo yum update
 
 
+[For Ubuntu and Debian Distributions]
+The sudo apt update updates the change database. Do this first, then update or install.
+
+sudo apt update
+sudo apt install vim
+
+To update all the programs with bug fixes or latest versions
+
+sudo apt update
+sudo apt upgrade
 
 
 

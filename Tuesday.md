@@ -102,8 +102,17 @@ A useful model for thinking about security for Linux or other operating systems
 - Integrity
 - Availability
 
+Attacks or testing occurs almost instantly
+Mostly automated systems checking your server
 
+80 or 443 = web server 
+22 = SSH access
 
+AIDE - creates a database with information about your files. This can be manual or automated. Alerts you if something has changed.
+OSSEC - Intrusion detection system. Open Source HIDS SECurity
+Nmap - Is run manually via the nmap command. You use it to check what ports are listening on your servers.
+
+Remote logging - sending the logs elsewhere (other than your server)
 
 
 

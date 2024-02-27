@@ -79,7 +79,28 @@ Container in the docker world is a package of code that includes everything need
 
 It's a tool used for building and managing virtual machine environments in a single workflow
 
+---
 
+
+# Try Linux without installing it
+
+You can do it with a USB or bootable DVD
+
+---
+
+
+# Linux Security
+
+Mitre Organization
+NIST
+
+
+A Standard Security Model
+A useful model for thinking about security for Linux or other operating systems
+
+- Confidentiality
+- Integrity
+- Availability
 
 
 

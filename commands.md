@@ -27,3 +27,8 @@ The cat command is a fundamental tool in Linux for working with text files. Its 
 
 ---
 
+### wc 
+check the characters in the file
+
+---
+

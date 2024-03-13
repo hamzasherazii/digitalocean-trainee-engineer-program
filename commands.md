@@ -22,3 +22,8 @@ The cat command is a fundamental tool in Linux for working with text files. Its 
 
 ---
 
+### man 
+### info
+
+---
+

@@ -43,6 +43,9 @@ make a new directory
 ### cp 
 copy 
 
+### mv
+move / rename 
+
 
 
 ---

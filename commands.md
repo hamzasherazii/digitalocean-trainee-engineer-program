@@ -46,8 +46,10 @@ copy
 ### mv
 move / rename 
 
-
+### touch 
+create a new file
 
 ---
+
 
 

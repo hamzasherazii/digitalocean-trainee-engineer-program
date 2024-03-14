@@ -71,7 +71,7 @@ create an archive
 tar xf 
 extract a file from archive
 
-### zip fpr compression
+### zip for compression
 three types of archives
 
 ---

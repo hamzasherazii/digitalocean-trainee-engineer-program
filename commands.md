@@ -32,3 +32,11 @@ check the characters in the file
 
 ---
 
+### env 
+check environment variables
+
+---
+
+
+
+

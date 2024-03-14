@@ -60,5 +60,18 @@ delete
 
 ---
 
+## Archive and Compression 
+
+### tar 
+archive command
+
+tar cf 
+create an archive 
+
+tar xf 
+extract a file from archive
+
+---
+
 
 

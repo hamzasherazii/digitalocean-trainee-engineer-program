@@ -49,6 +49,9 @@ move / rename
 ### touch 
 create a new file
 
+### rm
+delete
+
 ---
 
 ### Globbing

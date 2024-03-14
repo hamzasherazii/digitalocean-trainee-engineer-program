@@ -72,6 +72,7 @@ tar xf
 extract a file from archive
 
 ### zip fpr compression
+three types of archives
 
 ---
 

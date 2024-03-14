@@ -37,6 +37,14 @@ check environment variables
 
 ---
 
+### mkdir
+make a new directory 
 
+### cp 
+copy 
+
+
+
+---
 
 

@@ -79,5 +79,13 @@ three types of archives
 ## Shell Scripting
 
 
+---
+
+## dmesg
+
+view kernel/system messages
+
+---
+
 
 

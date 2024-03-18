@@ -81,21 +81,28 @@ three types of archives
 
 ---
 
-## dmesg
+### dmesg
 
 view kernel/system messages
 
 ---
 
-## ip addr show
+### ip addr show
 
 show ip addresses
 
 ---
 
-## cat /var/log/syslog
+### cat /var/log/syslog
 
 view the syslogs
+
+---
+
+### dmidecode
+### lshw 
+
+display hardware information
 
 ---
 

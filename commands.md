@@ -87,5 +87,15 @@ view kernel/system messages
 
 ---
 
+## ip addr show
 
+show ip addresses
+
+---
+
+## cat /var/log/syslog
+
+view the syslogs
+
+---
 

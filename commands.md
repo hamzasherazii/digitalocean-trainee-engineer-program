@@ -130,6 +130,25 @@ this will replace oldString with newString in-place (-i) of file myfile.txt
 
 ---
 
+### find
+
+command used to find some file
+
+---
+
+File Globbing
+
+finding files even when you don't know the name
+
+---
+
+
+
+
+
+
+
+
 
 
 

@@ -106,3 +106,31 @@ display hardware information
 
 ---
 
+### history
+
+view hostory of all commands
+
+---
+
+### which ls
+### type ls
+
+    type ls: This command will display information about the type of command ls is, along with its location in the filesystem.
+
+    which ls: This command will show the path to the ls command.
+    
+---
+
+### sed
+
+this command is used to replace a string in a file
+sed -i 's/oldString/newString/Lg' myfile.txt
+
+this will replace oldString with newString in-place (-i) of file myfile.txt
+
+---
+
+
+
+
+

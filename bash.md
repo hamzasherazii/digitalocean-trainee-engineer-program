@@ -13,3 +13,7 @@ Shows the history of commands you have typed so far. It can be modified to
 2. Not show ignored commands (ignorespace)
 
 ### Variables
+hamza="hamza sherazi"
+echo "My name is $hamza"
+
+### Arrays

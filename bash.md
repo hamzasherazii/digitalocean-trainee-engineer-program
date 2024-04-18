@@ -14,6 +14,7 @@ Shows the history of commands you have typed so far. It can be modified to
 
 ### Variables
 hamza="hamza sherazi"
+
 echo "My name is $hamza"
 
 ### Arrays

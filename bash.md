@@ -18,3 +18,18 @@ hamza="hamza sherazi"
 echo "My name is $hamza"
 
 ### Arrays
+#!/bin/bash
+
+# simple script showing arrays in work
+
+names=(hamza saad shaheer)
+
+echo ${names[0]}        # this will output hamza
+echo ${names[1]}        # this will output saad
+echo ${names[2]}        # this will output shaheer
+
+
+# you can find length of an array using the ${#array[@]} syntax
+
+echo ${#names[@]}       # this will output 3
+
